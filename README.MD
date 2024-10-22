@@ -1,1 +1,1 @@
-Deploying AWS resources with Terraform
+Deploying AWS resources with Terraform via vscode + HCP Terraform.
